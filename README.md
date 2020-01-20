@@ -1,5 +1,5 @@
 # flappyrunner
-Developed during the summer of 2017
+Developed during the summer of 2017 using Unity Engine
 
 It was basically flappy bird but instead of flying there was running.
 
