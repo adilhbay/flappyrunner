@@ -1,2 +1,2 @@
 # flappyrunner
-Developed on August of 2017
+Developed during the summer of 2017
